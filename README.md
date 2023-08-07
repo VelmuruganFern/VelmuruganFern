@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VelmuruganFern
 - 👀 I’m interested in ... Development
 - 🌱 I’m currently learning ... Salesforce
-- 📫 How to reach me ... velmurugan.ramasamy@fernsoftware.com
 
 <!---
 VelmuruganFern/VelmuruganFern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
