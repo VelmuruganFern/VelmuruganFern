@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VelmuruganFern
 - 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ... Saleasforce
+- 🌱 I’m currently learning ... Salesforce
 - 📫 How to reach me ... velmurugan.ramasamy@fernsoftware.com
 
 <!---
